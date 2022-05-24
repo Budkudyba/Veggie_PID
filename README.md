@@ -15,3 +15,6 @@ The bag adaptor flange is 1 1/4" NTP
 ![terminal block enclosure](https://user-images.githubusercontent.com/592299/170122953-d74acfb1-226f-4707-9684-024d3d3db979.PNG)
 
 ![filter bag adaptor](https://user-images.githubusercontent.com/592299/170123097-ad1e23d4-b19e-4c54-a45d-796858d49144.PNG)
+
+
+![IMG_20190506_134606](https://user-images.githubusercontent.com/592299/170127929-1c71fe27-3fbc-488b-bab3-a898713480f0.jpg)
